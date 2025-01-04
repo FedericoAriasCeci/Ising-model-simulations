@@ -6,5 +6,5 @@ In this repository, we are going to simulate the Ising model, which describes th
 - pip instalado
 
 ## Instalación
-1. Clona este repositorio: git clone https://github.com/FedericoAriasCeci/Ising-model-simulations.git
+1. Clona este repositorio: 'git clone https://github.com/FedericoAriasCeci/Ising-model-simulations.git'
 2. Instala las dependencias: 'pip install -r requirements.txt'
